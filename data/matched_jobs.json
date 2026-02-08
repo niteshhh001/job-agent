@@ -1,0 +1,502 @@
+[
+  {
+    "job_id": "d30f45eefca65e242907471edfd2ed02",
+    "title": "Backend Engineer/API, Payments and Risk",
+    "normalized_title": "Backend Engineer",
+    "company": "stripe",
+    "location": "Remote",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=6692166",
+    "source": "greenhouse",
+    "match_score": 90.0
+  },
+  {
+    "job_id": "fe0f1f2e8f6cdafdf073b29a4def3418",
+    "title": "Backend Software Engineer, Storefronts",
+    "normalized_title": "Software Engineer",
+    "company": "airbnb",
+    "location": "Remote",
+    "apply_url": "https://careers.airbnb.com/positions/7572491?gh_jid=7572491",
+    "source": "greenhouse",
+    "match_score": 80.0
+  },
+  {
+    "job_id": "2f5a6ce4d61323e86b09f7807ef95226",
+    "title": "Senior Backend Engineer, GraphQL",
+    "normalized_title": "Backend Engineer",
+    "company": "airbnb",
+    "location": "Remote",
+    "apply_url": "https://careers.airbnb.com/positions/7547843?gh_jid=7547843",
+    "source": "greenhouse",
+    "match_score": 80.0
+  },
+  {
+    "job_id": "e6553f613ed43f6cb0d028aa69bf77dd",
+    "title": "Principal Software Engineer, Backend - Platform ",
+    "normalized_title": "Software Engineer",
+    "company": "coinbase",
+    "location": "Remote",
+    "apply_url": "https://www.coinbase.com/careers/positions/6821476?gh_jid=6821476",
+    "source": "greenhouse",
+    "match_score": 80.0
+  },
+  {
+    "job_id": "370cf478154a7dfae060d255bbfd58fb",
+    "title": "Software Engineer, Core Technology",
+    "normalized_title": "Software Engineer",
+    "company": "stripe",
+    "location": "Bangalore",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7174299",
+    "source": "greenhouse",
+    "match_score": 70.0
+  },
+  {
+    "job_id": "65426a594323b2e47d084affafd4f553",
+    "title": "Staff Software Engineer, Billing",
+    "normalized_title": "Software Engineer",
+    "company": "stripe",
+    "location": "Remote",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=5846766",
+    "source": "greenhouse",
+    "match_score": 70.0
+  },
+  {
+    "job_id": "b028909fb0385ddc7a5999f15ea8f28b",
+    "title": "Senior Software Engineer, Guest & Host",
+    "normalized_title": "Software Engineer",
+    "company": "airbnb",
+    "location": "Bangalore",
+    "apply_url": "https://careers.airbnb.com/positions/7518674?gh_jid=7518674",
+    "source": "greenhouse",
+    "match_score": 70.0
+  },
+  {
+    "job_id": "9728007ea4f6359f13a3517b566bacce",
+    "title": "Software Engineering Manager - Cloud Provisioning",
+    "normalized_title": "Software Engineering Manager - Cloud Provisioning",
+    "company": "coinbase",
+    "location": "Remote",
+    "apply_url": "https://www.coinbase.com/careers/positions/7576813?gh_jid=7576813",
+    "source": "greenhouse",
+    "match_score": 70.0
+  },
+  {
+    "job_id": "98b5e1b7d6bbbc4c4565dd84004ad3d9",
+    "title": "Backend/ API Engineer, Bank Transfers",
+    "normalized_title": "Backend Engineer",
+    "company": "stripe",
+    "location": "United Kingdom ",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7518870",
+    "source": "greenhouse",
+    "match_score": 60.0
+  },
+  {
+    "job_id": "685662f728af223c31a4b00f63420713",
+    "title": "Backend/API Engineer, Money as a Service",
+    "normalized_title": "Backend Engineer",
+    "company": "stripe",
+    "location": "US",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=6176758",
+    "source": "greenhouse",
+    "match_score": 60.0
+  },
+  {
+    "job_id": "87f753c297364309c4c3b96815dd71bb",
+    "title": "Backend/API Engineer, Money as a Service (Canada)",
+    "normalized_title": "Backend Engineer",
+    "company": "stripe",
+    "location": "Canada",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=6176763",
+    "source": "greenhouse",
+    "match_score": 60.0
+  },
+  {
+    "job_id": "d7cde7f705b8b675d869dd9990882493",
+    "title": "Backend / API Engineer, Payouts",
+    "normalized_title": "Backend Engineer",
+    "company": "stripe",
+    "location": "United Kingdom",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7369543",
+    "source": "greenhouse",
+    "match_score": 60.0
+  },
+  {
+    "job_id": "f80e282bb98e0462c02bf64bf7d0b29d",
+    "title": "Backend / API Engineer, Privacy Products",
+    "normalized_title": "Backend Engineer",
+    "company": "stripe",
+    "location": "San Francisco, Seattle",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7579264",
+    "source": "greenhouse",
+    "match_score": 60.0
+  },
+  {
+    "job_id": "d41744a88ddb1de484dd56a612ca28c5",
+    "title": "Backend Engineer/API, Payments and Risk",
+    "normalized_title": "Backend Engineer",
+    "company": "stripe",
+    "location": "Dublin, Ireland",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=4921361",
+    "source": "greenhouse",
+    "match_score": 60.0
+  },
+  {
+    "job_id": "07ae17ae7f263c36442bf0a60b8f0387",
+    "title": "Backend Engineer, Core Technology",
+    "normalized_title": "Backend Engineer",
+    "company": "stripe",
+    "location": "Bucharest, Romania ",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=6623777",
+    "source": "greenhouse",
+    "match_score": 50.0
+  },
+  {
+    "job_id": "1832e0a146fe68b3f4e006508356b5cb",
+    "title": "Backend Engineer, Core Technology",
+    "normalized_title": "Backend Engineer",
+    "company": "stripe",
+    "location": "Dublin",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7182617",
+    "source": "greenhouse",
+    "match_score": 50.0
+  },
+  {
+    "job_id": "9472bbc31eeaad4e1a8b0cf7275ab52d",
+    "title": "Backend Engineer, UI Services",
+    "normalized_title": "Backend Engineer",
+    "company": "stripe",
+    "location": "Barcelona",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7310001",
+    "source": "greenhouse",
+    "match_score": 50.0
+  },
+  {
+    "job_id": "805869c720e0900faa4709dde4e0202d",
+    "title": "Staff Backend Engineer, Privy",
+    "normalized_title": "Backend Engineer",
+    "company": "stripe",
+    "location": "NYC-Privy",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7235875",
+    "source": "greenhouse",
+    "match_score": 50.0
+  },
+  {
+    "job_id": "8f88679c964dcadeecadb648c6721ab3",
+    "title": "Backend Engineer  - Data Infrastructure",
+    "normalized_title": "Backend Engineer",
+    "company": "spotify",
+    "location": "New York, NY",
+    "apply_url": "https://jobs.lever.co/spotify/66492688-d5b0-4cf8-b1a4-4a715157edd9",
+    "source": "lever",
+    "match_score": 50.0
+  },
+  {
+    "job_id": "46a0f0652d2b1398890122b24c301322",
+    "title": "Backend Engineer - Data Platform",
+    "normalized_title": "Backend Engineer",
+    "company": "spotify",
+    "location": "London",
+    "apply_url": "https://jobs.lever.co/spotify/5d02ff20-ef44-49cc-84c9-feb1159e3460",
+    "source": "lever",
+    "match_score": 50.0
+  },
+  {
+    "job_id": "986d411c9c3ba78b46760ce1fc9ef137",
+    "title": "Backend Engineer - User Platform",
+    "normalized_title": "Backend Engineer",
+    "company": "spotify",
+    "location": "Toronto",
+    "apply_url": "https://jobs.lever.co/spotify/58860a10-4a0d-4a21-a495-1f3605b300c1",
+    "source": "lever",
+    "match_score": 50.0
+  },
+  {
+    "job_id": "86b4eb523aedaeb7839414555d086f07",
+    "title": "Backend Engineer, Core Experience",
+    "normalized_title": "Backend Engineer",
+    "company": "spotify",
+    "location": "Stockholm",
+    "apply_url": "https://jobs.lever.co/spotify/74c1c531-3649-4d5a-92ee-8dcd4f4727a2",
+    "source": "lever",
+    "match_score": 50.0
+  },
+  {
+    "job_id": "eb11712088114b52a6090fae56c1656d",
+    "title": "Senior Staff Software Engineer,  Developer Infrastructure ",
+    "normalized_title": "Software Engineer",
+    "company": "stripe",
+    "location": "SEA, SF",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7409691",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "05907282250b45f51c5ebfe0ea846dba",
+    "title": "Software Engineer, Bridge",
+    "normalized_title": "Software Engineer",
+    "company": "stripe",
+    "location": "San Francisco, NY, Seattle",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7277110",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "afc95edd5c9bff6a7e251c8b89302b75",
+    "title": "Software Engineer, Data Orchestration",
+    "normalized_title": "Software Engineer",
+    "company": "stripe",
+    "location": "N/A",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7230670",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "2ad1a0f1a2b1616e511195072cf6e423",
+    "title": "Software Engineering, New Grad",
+    "normalized_title": "Software Engineering, New Grad",
+    "company": "stripe",
+    "location": "Singapore",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7176977",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "cb8b5275a43a5292458824dcfecc08c8",
+    "title": "Software Engineer, Intern",
+    "normalized_title": "Software Engineer",
+    "company": "stripe",
+    "location": "Singapore",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7206401",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "7cdbe21c60317ad8c6ed5fa4ff021e94",
+    "title": "Software Engineer, Intern",
+    "normalized_title": "Software Engineer",
+    "company": "stripe",
+    "location": "Toronto",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7206389",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "1984eccbcb8b5c4c44c388f16cd460cf",
+    "title": "Software Engineer, Intern",
+    "normalized_title": "Software Engineer",
+    "company": "stripe",
+    "location": "Dublin",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7206494",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "8e990b9c82effc81ac41cb278b8c7f41",
+    "title": "Software Engineer, Intern",
+    "normalized_title": "Software Engineer",
+    "company": "stripe",
+    "location": "London",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7360840",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "d029aa296728809f4ea26cfddaf55dae",
+    "title": "Software Engineer, Internal Systems",
+    "normalized_title": "Software Engineer",
+    "company": "stripe",
+    "location": "Seattle, San Francisco, New York City ",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7009186",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "a9868395c9d884d8fbe6781733e4c636",
+    "title": "Software Engineer, Intern (Summer)",
+    "normalized_title": "Software Engineer",
+    "company": "stripe",
+    "location": "San Francisco, Seattle, New York City",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7210115",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "a24c4ee9e6bedd99229753f506a21d30",
+    "title": "Software Engineer, Machine Learning Infrastructure",
+    "normalized_title": "Software Engineer",
+    "company": "stripe",
+    "location": "Toronto, Canada",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=6099228",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "8418c7966e54ae5f732b0ed7d910f6c3",
+    "title": "Software Engineer, New Grad",
+    "normalized_title": "Software Engineer",
+    "company": "stripe",
+    "location": "San Francisco, Seattle",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7210112",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "bb0acd9f6fe597dcf8d32ec95610a82f",
+    "title": "Software Engineer, New Grad",
+    "normalized_title": "Software Engineer",
+    "company": "stripe",
+    "location": "Barcelona",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7213871",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "86568a5235def617d6a3a884234f375a",
+    "title": "Software Engineer, Product Security Data Platforms",
+    "normalized_title": "Software Engineer",
+    "company": "stripe",
+    "location": "Seattle",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7545459",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "d5c867793f18ecaabe15ad397cd42208",
+    "title": "Software Engineer, Secrets Infrastructure",
+    "normalized_title": "Software Engineer",
+    "company": "stripe",
+    "location": "na",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7396679",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "dea1d6183f63950df248bd0f14dd54c0",
+    "title": "Software Engineer - Smart Contract, Bridge",
+    "normalized_title": "Software Engineer",
+    "company": "stripe",
+    "location": "San Francisco or New York",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7507904",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "bf0ebd31536952709d41371e58fc28da",
+    "title": "Senior Android Software Engineer, Quality Engineering",
+    "normalized_title": "Software Engineer",
+    "company": "airbnb",
+    "location": "United States",
+    "apply_url": "https://careers.airbnb.com/positions/6602436?gh_jid=6602436",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "fcb43323a803aa5e416496ba7d6c6baf",
+    "title": "Senior Software Engineer, Cloud Networking (Brazil)",
+    "normalized_title": "Software Engineer",
+    "company": "airbnb",
+    "location": "Brazil",
+    "apply_url": "https://careers.airbnb.com/positions/7391864?gh_jid=7391864",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "22860778336055e1ef5f0724f388360f",
+    "title": "Senior Software Engineer, Community Support Engineering(AI Product)",
+    "normalized_title": "Software Engineer",
+    "company": "airbnb",
+    "location": "Beijing, China",
+    "apply_url": "https://careers.airbnb.com/positions/7446513?gh_jid=7446513",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "e88112abea2bca1f74315f6b92667586",
+    "title": "Senior Software Engineer, Guest & Host - Global Markets",
+    "normalized_title": "Software Engineer",
+    "company": "airbnb",
+    "location": "China",
+    "apply_url": "https://careers.airbnb.com/positions/7174313?gh_jid=7174313",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "8861824fef1ea63eea6d12e6e2c1c341",
+    "title": "Senior Software Engineer, Reliability Engineering",
+    "normalized_title": "Software Engineer",
+    "company": "airbnb",
+    "location": "S\u00e3o Paulo, Brazil",
+    "apply_url": "https://careers.airbnb.com/positions/7565550?gh_jid=7565550",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "4edd66afcb2d3153b197e45df1e77ed7",
+    "title": "Protocol Sales Associate, Capital Formation",
+    "normalized_title": "Protocol Sales Associate, Capital Formation",
+    "company": "coinbase",
+    "location": "Remote",
+    "apply_url": "https://www.coinbase.com/careers/positions/7521900?gh_jid=7521900",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "221158e62c79bfc9fccdd5692f26ea88",
+    "title": "Software Engineer Intern",
+    "normalized_title": "Software Engineer",
+    "company": "coinbase",
+    "location": "Hybrid - San Francisco, CA",
+    "apply_url": "https://www.coinbase.com/careers/positions/7268895?gh_jid=7268895",
+    "source": "greenhouse",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "fb29d81324c0a8c7ba7720a8343c6b0c",
+    "title": "Senior Software Engineer (low level Video Experience)",
+    "normalized_title": "Software Engineer",
+    "company": "spotify",
+    "location": "London",
+    "apply_url": "https://jobs.lever.co/spotify/347cfd8a-3830-4eb6-b5e2-e7adc1964777",
+    "source": "lever",
+    "match_score": 40.0
+  },
+  {
+    "job_id": "61a4383235a8221f5bede819639bea3d",
+    "title": "Account Executive, Enterprise ",
+    "normalized_title": "Account Executive, Enterprise ",
+    "company": "stripe",
+    "location": "Remote",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7099651",
+    "source": "greenhouse",
+    "match_score": 30.0
+  },
+  {
+    "job_id": "54dae514ac9a3ef683481cf1eca51585",
+    "title": "Account Executive, Enterprise (Existing Business) ",
+    "normalized_title": "Account Executive, Enterprise (Existing Business) ",
+    "company": "stripe",
+    "location": "Remote",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7302943",
+    "source": "greenhouse",
+    "match_score": 30.0
+  },
+  {
+    "job_id": "90a7ad1c75bd598c4397411336e15d0d",
+    "title": "Account Executive, Enterprise - Public Sector (New Business)\u00a0",
+    "normalized_title": "Account Executive, Enterprise - Public Sector (New Business)\u00a0",
+    "company": "stripe",
+    "location": "Remote",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7430232",
+    "source": "greenhouse",
+    "match_score": 30.0
+  },
+  {
+    "job_id": "47375c948260059b3394c1bd764c32a3",
+    "title": "Account Executive, Product Sales (BaaS)",
+    "normalized_title": "Account Executive, Product Sales (Baas)",
+    "company": "stripe",
+    "location": "Remote",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7456716",
+    "source": "greenhouse",
+    "match_score": 30.0
+  }
+]

@@ -1,42 +1,53 @@
 from scrapers.greenhouse import scrape_greenhouse
 from scrapers.lever import scrape_lever
+from scrapers.google_jobs import scrape_google_jobs
+
 import json
 import os
-import time
 
 
+# =========================
+# LOAD SERPAPI KEY CORRECTLY
+# =========================
+SERP_API_KEY = os.getenv("SERP_API_KEY")
+
+if not SERP_API_KEY:
+    raise RuntimeError("❌ SERP_API_KEY environment variable not set")
+
+
+# =========================
+# SOURCES
+# =========================
 greenhouse_companies = [
-    "stripe",
-    "airbnb",
-    "coinbase",
-    "razorpay"
+    "stripe"
 ]
 
 lever_companies = [
-    "spotify",
-    "databricks",
-    "figma",
-    "robinhood",
-    "airtable",
-    "notion"
+    "spotify"
+]
+
+google_queries = [
+    "software engineer in delhi",
+    "backend engineer remote",
+    "python developer in india",
 ]
 
 
+# =========================
+# COLLECT JOBS
+# =========================
 all_jobs = []
 
-for company in greenhouse_companies:
-    jobs = scrape_greenhouse(company)
-    print(f"[Greenhouse] {company}: {len(jobs)}")
+# Google Jobs (MAIN SOURCE)
+for query in google_queries:
+    jobs = scrape_google_jobs(query, SERP_API_KEY)
+    print(f"[Google Jobs] {query}: {len(jobs)} jobs")
     all_jobs.extend(jobs)
 
 
-for company in lever_companies:
-    jobs = scrape_lever(company)
-    print(f"[Lever] {company}: {len(jobs)}")
-    all_jobs.extend(jobs)
-    time.sleep(1.5)  # polite delay
-
-
+# =========================
+# SAVE OUTPUT
+# =========================
 os.makedirs("data", exist_ok=True)
 
 with open("data/raw_jobs.json", "w", encoding="utf-8") as f:
